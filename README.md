@@ -1,7 +1,7 @@
 # Water Quality Dataset README
 
 ## Description
-This dataset contains measurements of various water quality parameters collected from different sites over time. The data includes physical, chemical, and microbiological indicators that provide insights into the water quality at various locations.
+This dataset contains measurements of various water quality parameters collected from different sites over time. The data includes physical, chemical, and microbiological indicators that provide insights into the surface water quality at various locations in Bristol
 
 ## Column Descriptions
 
